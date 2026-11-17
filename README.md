@@ -4,4 +4,6 @@
 
 <h1 align="center">Hi, I'm Aryan 👋</h1>
 
-I'm a Computer Science and Data Science undergraduate at Rutgers University – New Brunswick. I focus on full-stack development, serverless computing, and building data-driven models. Alongside my academic work, I enjoy working on my homelab and doing photography.  
+I'm a software and data engineer in New Jersey. I graduated from Rutgers University–New Brunswick in May 2026 with B.S. degrees in Computer Science and Data Science, and I'm the sole engineer at O'Bagel, an 8-store bagel chain, where I build the data platform, LLM tools, loyalty app, and website.
+
+Outside of work I run a homelab (Proxmox) and do photography.
